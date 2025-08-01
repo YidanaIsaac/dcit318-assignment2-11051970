@@ -1,0 +1,14 @@
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/bin/Debug/net9.0/InheritanceAndOverriding
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/bin/Debug/net9.0/InheritanceAndOverriding.deps.json
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/bin/Debug/net9.0/InheritanceAndOverriding.runtimeconfig.json
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/bin/Debug/net9.0/InheritanceAndOverriding.dll
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/bin/Debug/net9.0/InheritanceAndOverriding.pdb
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/obj/Debug/net9.0/InheritanceAndOverriding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/obj/Debug/net9.0/InheritanceAndOverriding.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/obj/Debug/net9.0/InheritanceAndOverriding.AssemblyInfo.cs
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/obj/Debug/net9.0/InheritanceAndOverriding.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/obj/Debug/net9.0/InheritanceAndOverriding.dll
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/obj/Debug/net9.0/refint/InheritanceAndOverriding.dll
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/obj/Debug/net9.0/InheritanceAndOverriding.pdb
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/obj/Debug/net9.0/InheritanceAndOverriding.genruntimeconfig.cache
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InheritanceAndOverriding/obj/Debug/net9.0/ref/InheritanceAndOverriding.dll
