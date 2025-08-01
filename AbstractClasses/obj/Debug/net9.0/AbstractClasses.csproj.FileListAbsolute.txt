@@ -1,0 +1,14 @@
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/bin/Debug/net9.0/AbstractClasses
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/bin/Debug/net9.0/AbstractClasses.deps.json
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/bin/Debug/net9.0/AbstractClasses.runtimeconfig.json
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/bin/Debug/net9.0/AbstractClasses.dll
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/bin/Debug/net9.0/AbstractClasses.pdb
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/obj/Debug/net9.0/AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/obj/Debug/net9.0/AbstractClasses.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/obj/Debug/net9.0/AbstractClasses.AssemblyInfo.cs
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/obj/Debug/net9.0/AbstractClasses.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/obj/Debug/net9.0/AbstractClasses.dll
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/obj/Debug/net9.0/refint/AbstractClasses.dll
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/obj/Debug/net9.0/AbstractClasses.pdb
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/obj/Debug/net9.0/AbstractClasses.genruntimeconfig.cache
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/AbstractClasses/obj/Debug/net9.0/ref/AbstractClasses.dll
