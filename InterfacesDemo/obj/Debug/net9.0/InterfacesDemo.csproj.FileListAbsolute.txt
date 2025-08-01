@@ -1,0 +1,14 @@
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/bin/Debug/net9.0/InterfacesDemo
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/bin/Debug/net9.0/InterfacesDemo.deps.json
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/bin/Debug/net9.0/InterfacesDemo.runtimeconfig.json
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/bin/Debug/net9.0/InterfacesDemo.dll
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/bin/Debug/net9.0/InterfacesDemo.pdb
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/obj/Debug/net9.0/InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/obj/Debug/net9.0/InterfacesDemo.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/obj/Debug/net9.0/InterfacesDemo.AssemblyInfo.cs
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/obj/Debug/net9.0/InterfacesDemo.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/obj/Debug/net9.0/InterfacesDemo.dll
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/obj/Debug/net9.0/refint/InterfacesDemo.dll
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/obj/Debug/net9.0/InterfacesDemo.pdb
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/obj/Debug/net9.0/InterfacesDemo.genruntimeconfig.cache
+/Users/macbookpro/Documents/dcit318-assignment2-11051970/InterfacesDemo/obj/Debug/net9.0/ref/InterfacesDemo.dll
